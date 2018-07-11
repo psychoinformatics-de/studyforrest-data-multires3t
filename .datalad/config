@@ -1,2 +1,6 @@
 [datalad "dataset"]
 	id = 5b1081d6-84d7-11e8-b00a-a0369fb55db0
+[datalad "containers.conversion"]
+	updateurl = shub://mih/ohbm2018-training:heudiconv
+	image = .datalad/environments/conversion/image
+	cmdexec = singularity exec --bind {{pwd}} {img} {cmd}
