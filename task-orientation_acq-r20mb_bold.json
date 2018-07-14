@@ -58,6 +58,8 @@
   "SoftwareVersions": "syngo_MR_D13D",
   "SpacingBetweenSlices": 2.2,
   "StationName": "AWP66017",
-  "TaskName": "TODO: full task name for orientation",
+  "TaskName": "Central fixation",
+  "TaskDescription": "Stimulation with visual oriented gratings with a central fixation task",
+  "CogAtlasID": "trm_4c898f72228f3",
   "TotalReadoutTime": 0.0599214,
   "TxRefAmp": 241.029}
