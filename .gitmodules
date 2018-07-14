@@ -1,3 +1,6 @@
 [submodule "sourcedata"]
 	path = sourcedata
 	url = /home/data/psyinf/scratch/multires3t/public/../raw
+[submodule "code/mridefacer"]
+	path = code/mridefacer
+	url = https://github.com/mih/mridefacer.git
